@@ -63,6 +63,7 @@
   .contact-info-upper-container,
   .btn-container {
     flex-wrap: wrap;
+    gap: 1rem;
   }
   .contact-info-container {
     margin: 0;
